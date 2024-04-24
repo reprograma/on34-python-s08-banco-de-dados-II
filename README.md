@@ -2,7 +2,7 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Aprofundando em banco de dados relacional SQL
 
 Turma Online On34 | Python | Semana 08 | 2024 | <a href="https://www.linkedin.com/in/viviane-gaspar/" target="_blank" rel="noopener noreferrer">Professora Viviane Gaspar</a>
 

@@ -6,7 +6,7 @@ Computação em nuvem refere-se à entrega de serviços de computação (servido
 
 Basicamente, em vez de armazenar dados localmente em seu computador ou servidor, você usa data centers remotos acessíveis pela internet.
 
-## Vantagens da Computação em Nuvem
+## Vantagens
 
 ### Escalabilidade
 Permite aumentar ou diminuir os recursos conforme a demanda, sem a necessidade de grandes investimentos iniciais em hardware.
@@ -23,7 +23,7 @@ As atualizações de software e hardware são gerenciadas pelo provedor de nuvem
 ### Segurança
 Os provedores de nuvem oferecem medidas robustas de segurança para proteger dados e aplicativos, incluindo criptografia e conformidade com regulamentações.
 
-## Serviços Comuns Oferecidos na Nuvem
+## Serviços comuns oferecidos na nuvem
 
 ### Infraestrutura como Serviço (IaaS)
 
@@ -68,6 +68,7 @@ Principais Serviços: Azure Virtual Machines (computação), Blob Storage (armaz
 Vantagens: Integração com produtos Microsoft, bom suporte para híbridos (nuvem e local), segurança e conformidade.
 
 ### Google Cloud Platform (GCP)
+![Logo GCP](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg "Logo GCP")
 
 História e Posição de Mercado: Reconhecida pela forte infraestrutura e inovações em IA e machine learning.
 

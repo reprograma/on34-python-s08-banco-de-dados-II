@@ -61,7 +61,7 @@ Principais Serviços: EC2 (computação), S3 (armazenamento), RDS (banco de dado
 Vantagens: Ampla gama de serviços, integração fácil, segurança robusta.
 
 ### Microsoft Azure
-![Logo Azure](hhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/640px-Microsoft_Azure_Logo.svg.png "Logo Azure")
+![Logo Azure](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/640px-Microsoft_Azure_Logo.svg.png "Logo Azure")
 
 História e Posição de Mercado: Forte presença no mercado corporativo, especialmente com integrações com produtos Microsoft existentes.
 

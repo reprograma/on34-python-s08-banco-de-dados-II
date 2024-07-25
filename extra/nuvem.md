@@ -24,7 +24,7 @@ As atualizações de software e hardware são gerenciadas pelo provedor de nuvem
 Os provedores de nuvem oferecem medidas robustas de segurança para proteger dados e aplicativos, incluindo criptografia e conformidade com regulamentações.
 
 ## Serviços comuns oferecidos na nuvem
-![Serviços](https://media.licdn.com/dms/image/D4D12AQF7FXaQpqc3Og/article-cover_image-shrink_720_1280/0/1680389110616?e=1727308800&v=beta&t=AB8r7fyIftz9owCFvKg-WTSVPkbOIS5OBEsBfdbAVok "Serviços")
+<img src="assets/servicos_nuvem.png" alt="Serviços nuvem" heigth="300"/>
 
 ### Infraestrutura como Serviço (IaaS)
 

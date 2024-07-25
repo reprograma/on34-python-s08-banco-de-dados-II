@@ -24,7 +24,9 @@ As atualizações de software e hardware são gerenciadas pelo provedor de nuvem
 Os provedores de nuvem oferecem medidas robustas de segurança para proteger dados e aplicativos, incluindo criptografia e conformidade com regulamentações.
 
 ## Serviços comuns oferecidos na nuvem
-<img src="assets/servicos_nuvem.png" alt="Serviços nuvem" heigth="300"/>
+<p align="center">
+    <img src="./assets/servicos_nuvem.png" alt="Serviços nuvem" heigth="300"/>
+</p>
 
 ### Infraestrutura como Serviço (IaaS)
 
@@ -53,7 +55,9 @@ Permite executar código em resposta a eventos sem a necessidade de gerenciar se
 ## Principais Provedores de Nuvem
 
 ### Amazon Web Services (AWS)
-![Logo AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png "Logo AWS")
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png" alt="Logo AWS" heigth="100"/>
+</p>
 
 História e Posição de Mercado: Pioneira e líder no mercado de nuvem, conhecida por sua vasta gama de serviços e ferramentas.
 
@@ -62,7 +66,9 @@ Principais Serviços: EC2 (computação), S3 (armazenamento), RDS (banco de dado
 Vantagens: Ampla gama de serviços, integração fácil, segurança robusta.
 
 ### Microsoft Azure
-![Logo Azure](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/640px-Microsoft_Azure_Logo.svg.png "Logo Azure")
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/640px-Microsoft_Azure_Logo.svg.png" alt="Logo Azure" heigth="100"/>
+</p>
 
 História e Posição de Mercado: Forte presença no mercado corporativo, especialmente com integrações com produtos Microsoft existentes.
 
@@ -71,7 +77,9 @@ Principais Serviços: Azure Virtual Machines (computação), Blob Storage (armaz
 Vantagens: Integração com produtos Microsoft, bom suporte para híbridos (nuvem e local), segurança e conformidade.
 
 ### Google Cloud Platform (GCP)
-![Logo GCP](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/1280px-Google_Cloud_logo.svg.png "Logo GCP")
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/1280px-Google_Cloud_logo.svg.png" alt="Logo GCP" heigth="100"/>
+</p>
 
 História e Posição de Mercado: Reconhecida pela forte infraestrutura e inovações em IA e machine learning.
 

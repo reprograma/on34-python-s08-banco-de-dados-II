@@ -4,7 +4,7 @@
 
 # Aprofundando em banco de dados relacional SQL
 
-Turma Online On34 | Python | Semana 08 | 2024 | <a href="https://www.linkedin.com/in/viviane-gaspar/" target="_blank" rel="noopener noreferrer">Professora Viviane Gaspar</a>
+Turma Online On34 | Python | Semana 08 | 2024 | [Bianca Santos](https://www.linkedin.com/in/biancainacio)
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.

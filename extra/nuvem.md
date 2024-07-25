@@ -52,6 +52,7 @@ Permite executar código em resposta a eventos sem a necessidade de gerenciar se
 ## Principais Provedores de Nuvem
 
 ### Amazon Web Services (AWS)
+![Logo AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png "Logo AWS")
 
 História e Posição de Mercado: Pioneira e líder no mercado de nuvem, conhecida por sua vasta gama de serviços e ferramentas.
 
@@ -60,6 +61,7 @@ Principais Serviços: EC2 (computação), S3 (armazenamento), RDS (banco de dado
 Vantagens: Ampla gama de serviços, integração fácil, segurança robusta.
 
 ### Microsoft Azure
+![Logo Azure](hhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/640px-Microsoft_Azure_Logo.svg.png "Logo Azure")
 
 História e Posição de Mercado: Forte presença no mercado corporativo, especialmente com integrações com produtos Microsoft existentes.
 
@@ -68,7 +70,7 @@ Principais Serviços: Azure Virtual Machines (computação), Blob Storage (armaz
 Vantagens: Integração com produtos Microsoft, bom suporte para híbridos (nuvem e local), segurança e conformidade.
 
 ### Google Cloud Platform (GCP)
-![Logo GCP](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg "Logo GCP")
+![Logo GCP](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/1280px-Google_Cloud_logo.svg.png "Logo GCP")
 
 História e Posição de Mercado: Reconhecida pela forte infraestrutura e inovações em IA e machine learning.
 

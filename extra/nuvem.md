@@ -25,7 +25,7 @@ Os provedores de nuvem oferecem medidas robustas de segurança para proteger dad
 
 ## Serviços comuns oferecidos na nuvem
 <p align="center">
-    <img src="./assets/servicos_nuvem.png" alt="Serviços nuvem" heigth="300"/>
+    <img src="../assets/servicos_nuvem.png" alt="Serviços nuvem" heigth="300"/>
 </p>
 
 ### Infraestrutura como Serviço (IaaS)
@@ -56,7 +56,7 @@ Permite executar código em resposta a eventos sem a necessidade de gerenciar se
 
 ### Amazon Web Services (AWS)
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png" alt="Logo AWS" heigth="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png" alt="Logo AWS" width="167"/>
 </p>
 
 História e Posição de Mercado: Pioneira e líder no mercado de nuvem, conhecida por sua vasta gama de serviços e ferramentas.
@@ -67,7 +67,7 @@ Vantagens: Ampla gama de serviços, integração fácil, segurança robusta.
 
 ### Microsoft Azure
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/640px-Microsoft_Azure_Logo.svg.png" alt="Logo Azure" heigth="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/640px-Microsoft_Azure_Logo.svg.png" alt="Logo Azure" width="346"/>
 </p>
 
 História e Posição de Mercado: Forte presença no mercado corporativo, especialmente com integrações com produtos Microsoft existentes.
@@ -78,7 +78,7 @@ Vantagens: Integração com produtos Microsoft, bom suporte para híbridos (nuve
 
 ### Google Cloud Platform (GCP)
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/1280px-Google_Cloud_logo.svg.png" alt="Logo GCP" heigth="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/1280px-Google_Cloud_logo.svg.png" alt="Logo GCP" width="643"/>
 </p>
 
 História e Posição de Mercado: Reconhecida pela forte infraestrutura e inovações em IA e machine learning.
